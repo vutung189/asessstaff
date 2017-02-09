@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/controller/AdminController.java=UTF-8
+encoding//src/main/java/com/controller/ExchangeTimeController.java=UTF-8
+encoding//src/main/java/com/controller/LoginController.java=UTF-8
+encoding//src/main/java/com/controller/UserController.java=UTF-8
+encoding//src/main/java/com/model/SynthesisTeaching.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/admins/admin.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/login.jsp=UTF-8
+encoding//src/main/webapp/resources/css/common.css=UTF-8
